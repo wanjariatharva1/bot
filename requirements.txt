@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 google-generativeai
-gunicorn
+gunicornpython-multipart==0.0.17
 PyQt5==5.15.4  # Latest compatible version of PyQt5
 python-socketio==5.11.4  # Compatible version of python-socketio
